@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-react-website.git
+git clone https://github.com/anand-jaiswal-IN/simple-react-website.git
 ```
 
 2. Navigate to the project directory:
