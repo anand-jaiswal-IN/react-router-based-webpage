@@ -19,27 +19,6 @@ import {
   ErrorPage,
 } from "./Components";
 
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Layout />,
-//     children: [
-//       {
-//         path: "",
-//         element: <Home />,
-//       },
-//       {
-//         path: "about",
-//         element: <About />,
-//       },
-//       {
-//         path: "contact",
-//         element: <Contact />,
-//       },
-//     ],
-//   },
-// ]);
-
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>

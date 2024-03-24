@@ -20,7 +20,7 @@ function Home() {
         <Link to="/about" className="bg-red-500 text-white hover:bg-red-800 px-4 py-2 rounded-md">About</Link>
         </div>
         <div>
-        <img src="/public/img/explore-vector.png " alt="Art Work" className=""/>
+        <img src="/img/explore-vector.png " alt="Art Work" className=""/>
         </div>
       </div>
     </>
